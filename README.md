@@ -2,7 +2,7 @@
 
 **Free sample: the first 10 and the last 10 rows of each of the 9 league files**
 
-The full dataset holds **227,081 games and fights across 9 US leagues, from 1998 to 3 November 2026**: NFL, NBA, MLB,
+The full dataset holds **227,081 games and fights across 9 US leagues, from 1998 to 2 November 2026 (North American time)**: NFL, NBA, MLB,
 NHL, NCAAF, NCAAB, MLS, WNBA and UFC, one CSV per league, with the closing odds, the final score and how each game
 ended. NHL and MLS go back to 1998, MLB to 2006, NFL, NBA and the two NCAA leagues to 2008/09.
 
@@ -103,20 +103,22 @@ nba["margin"] = nba["Home_Odds"].map(prob) + nba["Away_Odds"].map(prob) - 1   # 
 
 - **Closing odds only.** No opening odds, no line movement, no spreads, no totals, no bookmaker-by-bookmaker prices.
 - **No preseason games, no All-Star games, no ONE Championship fights.**
-- **Coverage follows the source, which misses some games.** MLB 2006 starts on 15 May 2006 and NCAAF 2008/09 on
-  17 October 2008. There are no games from 4 to 14 September 2010 and from 7 to 22 May 2012 in MLB, from 4 July to
-  28 August 1998 in MLS, and from 28 November to 18 December 2008 in NCAAB (Paris dates). Around fifty MLB games of
-  2018–2022 and 63 UFC fights of 2016–2026 are also missing. The UFC file has no fight in 2014, 56 in 2013 and 160 in
-  2015.
+- **Coverage follows the source, which misses some games:**
+  - partial seasons: MLB 2006 starts on 15 May 2006 and misses 59 more games after that date; NCAAF 2008/09 starts on 17 October 2008; NCAAB 2008/09 has only 774 games (none from 28 November to 18 December 2008, few until February) and stops on 7 March 2009, before the NCAA Tournament;
+  - no MLB games from 4 to 14 September 2010, from 7 to 22 May 2012 and from 20 to 22 May 2015 (Paris dates), and no MLS games from 4 July to 28 August 1998;
+  - not in the source: the MLS is Back Tournament (July–August 2020) and the NBA Cup knockout games (quarter-finals, semi-finals and final, 2023/24 to 2025/26);
+  - scattered games: about 260 MLB regular-season games of 2007–2015 (74 in 2008) and about fifty of 2018–2022, 7 MLB playoff games of 2006–2008, about 75 NHL games of 1998/99–2008/09 (4 in the playoffs), 35 MLS games (22 in 2005, 8 in 2010), 25 NBA games (21 in 2010/11), 14 NFL games (10 in week 2 of 2008), 14 WNBA games of 2009 (all Indiana Fever), and 63 UFC fights of 2016–2026;
+  - college coverage widens over time: NCAAB has about 3,300–4,400 games a season until 2017/18 and 5,300–5,800 since (2020/21: 4,093); NCAAF has almost no games against FCS teams before 2013/14.
 - **The oldest seasons have placeholder kick-off times** (`00:00`, or `23:55` to `23:59`): most games of NHL
   1998/99–2006/07, MLS 1998–2007 and MLB 2006–2007, whose `Date` is then the North American date.
 - **From early March 2026, the source no longer shows the number of bookmakers or the "final result only" flag**
   (23 March 2026 in NCAAB, where `Bookmakers` is also empty from 2019/20).
 - **Some games have no price for one or both sides**, mostly in college sports.
-- **In NFL and NCAAF 2008/09, the source's average mixed in a bookmaker with home and away reversed.** Those odds were
-  put back in the right order or recomputed from the source's prices; where that was impossible, and for a few
-  isolated games with inconsistent prices, the cells are left empty: 597 games and 1 UFC fight in all.
-- **UFC:** the official statistics do not separate knockouts from technical knockouts, so `KO/TKO` is used when only
+- **In NFL and NCAAF 2008/09, the source's average included one bookmaker whose home and away prices were swapped.** Those odds were
+  put back in the right order or recomputed from the source's prices; where that was impossible, the cells are left
+  empty, as for a few isolated games and one UFC fight with inconsistent prices. In all, the odds of 597 games and
+  1 UFC fight differ from the source's.
+- **UFC:** the file has no fight in 2014, 56 in 2013 and 160 in 2015. The official statistics do not separate knockouts from technical knockouts, so `KO/TKO` is used when only
   they give the method (126 wins). 3 Road to UFC fights have no result, and 15 fights whose result was changed after
   the event keep the result shown by the source.
 
@@ -126,7 +128,7 @@ More details in the README.
 
 ## Verify before you buy
 
-The figures of the product page, the games season by season and integrity checks on every row, recomputed from the
+Row counts, dates, games season by season and integrity checks on every row, recomputed from the
 nine full files:
 [on Kaggle](https://www.kaggle.com/code/oliviersportsdata/us-sports-master-v2-verify-before-you-buy) · [in this repository](US_Sports_Master_Verify_Before_You_Buy.ipynb) (results shown).
 The same sample is on [Kaggle](https://www.kaggle.com/datasets/oliviersportsdata/us-sports-master-historical-closing-odds) and [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/US-Sports-Master-Historical-Closing-Odds).
