@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+WNBA,2009,Regular Season,2009-06-06,20:30,Los Angeles Sparks W,Dallas Wings W,78,58,Home,136,20,Regular Time,No,-238,,202,4
+WNBA,2009,Regular Season,2009-06-06,22:00,Connecticut Sun W,Washington Mystics W,70,82,Away,152,12,Regular Time,No,-385,,273,3
+WNBA,2009,Regular Season,2009-06-06,22:00,Sacramento Monarchs W,Seattle Storm W,61,71,Away,132,10,Regular Time,No,-128,,108,4
+WNBA,2009,Regular Season,2009-06-07,01:00,Atlanta Dream W,Indiana Fever W,87,86,Home,173,1,Overtime,No,170,,-204,4
+WNBA,2009,Regular Season,2009-06-07,02:00,Minnesota Lynx W,Chicago Sky W,102,85,Home,187,17,Regular Time,No,-172,,143,4
+WNBA,2009,Regular Season,2009-06-07,04:00,Phoenix Mercury W,Las Vegas Aces W,90,79,Home,169,11,Regular Time,No,-182,,152,4
+WNBA,2009,Regular Season,2009-06-07,22:00,New York Liberty W,Connecticut Sun W,57,66,Away,123,9,Regular Time,No,-200,,168,3
+WNBA,2009,Regular Season,2009-06-07,22:00,Washington Mystics W,Atlanta Dream W,77,71,Home,148,6,Regular Time,No,-263,,218,4
+WNBA,2009,Regular Season,2009-06-08,03:00,Seattle Storm W,Sacramento Monarchs W,80,70,Home,150,10,Regular Time,No,-323,,258,4
+WNBA,2009,Regular Season,2009-06-09,01:30,Dallas Wings W,Los Angeles Sparks W,81,52,Home,133,29,Regular Time,No,172,,-208,4
+WNBA,2026,Play Offs,2026-10-08,03:30,Golden State Valkyries W,Las Vegas Aces W,83,81,Home,164,2,Regular Time,,-143,,110,
+WNBA,2026,Play Offs,2026-10-10,01:30,New York Liberty W,Atlanta Dream W,83,85,Away,168,2,Regular Time,,,,,
+WNBA,2026,Play Offs,2026-10-10,03:30,Las Vegas Aces W,Golden State Valkyries W,77,87,Away,164,10,Overtime,,-192,,170,
+WNBA,2026,Play Offs,2026-10-17,21:30,Golden State Valkyries W,Atlanta Dream W,68,64,Home,132,4,Regular Time,,-139,,122,
+WNBA,2026,Play Offs,2026-10-20,02:00,Golden State Valkyries W,Atlanta Dream W,65,79,Away,144,14,Regular Time,,-123,,110,
+WNBA,2026,Play Offs,2026-10-22,02:00,Atlanta Dream W,Golden State Valkyries W,97,71,Home,168,26,Regular Time,,-182,,150,
+WNBA,2026,Play Offs,2026-10-24,19:00,Atlanta Dream W,Golden State Valkyries W,62,67,Away,129,5,Regular Time,,-222,,195,
+WNBA,2026,Play Offs,2026-10-27,01:00,Golden State Valkyries W,Atlanta Dream W,64,55,Home,119,9,Regular Time,,102,,-114,
+WNBA,2026,Play Offs,2026-10-29,17:30,Atlanta Dream W,Golden State Valkyries W,80,69,Home,149,11,Regular Time,,-200,,168,
+WNBA,2026,Play Offs,2026-11-01,01:00,Golden State Valkyries W,Atlanta Dream W,68,63,Home,131,5,Regular Time,,-120,,102,

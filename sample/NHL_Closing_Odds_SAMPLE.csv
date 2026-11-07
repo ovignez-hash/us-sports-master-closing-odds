@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+NHL,1998/1999,Regular Season,1998-10-09,00:00,Florida Panthers,Tampa Bay Lightning,4,1,Home,5,3,Regular Time,No,-125,359,200,1
+NHL,1998/1999,Regular Season,1998-10-09,00:00,New York Rangers,Philadelphia Flyers,0,1,Away,1,1,Regular Time,No,135,330,129,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Boston Bruins,St. Louis Blues,3,3,Draw,6,0,Overtime,No,110,330,140,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Carolina Hurricanes,Tampa Bay Lightning,4,4,Draw,8,0,Overtime,No,-143,350,210,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Chicago Blackhawks,New Jersey Devils,2,1,Home,3,1,Regular Time,No,129,325,125,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Colorado Avalanche,Ottawa Senators,3,4,Away,7,1,Regular Time,No,-179,359,265,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Dallas Stars,Buffalo Sabres,4,1,Home,5,3,Regular Time,No,-143,340,210,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Edmonton Oilers,Los Angeles Kings,1,2,Away,3,1,Regular Time,No,100,340,160,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Montreal Canadiens,New York Rangers,7,1,Home,8,6,Regular Time,No,100,340,165,1
+NHL,1998/1999,Regular Season,1998-10-10,00:00,Nashville Predators,Florida Panthers,0,1,Away,1,1,Regular Time,No,140,330,110,1
+NHL,2026/2027,Regular Season,2026-11-01,03:00,Colorado Avalanche,Calgary Flames,5,2,Home,7,3,Regular Time,,-213,440,509,
+NHL,2026/2027,Regular Season,2026-11-01,19:00,Carolina Hurricanes,Winnipeg Jets,7,0,Home,7,7,Regular Time,,-167,375,390,
+NHL,2026/2027,Regular Season,2026-11-01,21:30,Washington Capitals,Minnesota Wild,1,5,Away,6,4,Regular Time,,165,320,138,
+NHL,2026/2027,Regular Season,2026-11-01,22:00,Philadelphia Flyers,Utah Mammoth,6,3,Home,9,3,Regular Time,,225,318,106,
+NHL,2026/2027,Regular Season,2026-11-02,00:00,New York Rangers,Edmonton Oilers,1,4,Away,5,3,Regular Time,,131,324,170,
+NHL,2026/2027,Regular Season,2026-11-02,02:00,Anaheim Ducks,Ottawa Senators,6,3,Home,9,3,Regular Time,,175,316,131,
+NHL,2026/2027,Regular Season,2026-11-03,01:00,Boston Bruins,Vegas Golden Knights,3,2,Home,5,1,Shootout,,156,330,144,
+NHL,2026/2027,Regular Season,2026-11-03,01:00,Florida Panthers,Detroit Red Wings,3,5,Away,8,2,Regular Time,,-106,324,254,
+NHL,2026/2027,Regular Season,2026-11-03,02:00,Chicago Blackhawks,Colorado Avalanche,2,5,Away,7,3,Regular Time,,307,350,-135,
+NHL,2026/2027,Regular Season,2026-11-03,03:00,San Jose Sharks,Calgary Flames,1,2,Away,3,1,Regular Time,,134,316,181,

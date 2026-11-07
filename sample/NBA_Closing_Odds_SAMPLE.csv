@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+NBA,2008/2009,Regular Season,2008-10-29,01:00,Boston Celtics,Cleveland Cavaliers,90,85,Home,175,5,Regular Time,No,-263,,229,1
+NBA,2008/2009,Regular Season,2008-10-29,01:30,Chicago Bulls,Milwaukee Bucks,108,95,Home,203,13,Regular Time,No,-263,,229,1
+NBA,2008/2009,Regular Season,2008-10-29,03:30,Los Angeles Lakers,Portland Trail Blazers,96,76,Home,172,20,Regular Time,No,-400,,300,1
+NBA,2008/2009,Regular Season,2008-10-29,23:00,Philadelphia 76ers,Toronto Raptors,84,95,Away,179,11,Regular Time,No,-222,,175,1
+NBA,2008/2009,Regular Season,2008-10-30,00:00,Orlando Magic,Atlanta Hawks,85,99,Away,184,14,Regular Time,No,-357,,280,1
+NBA,2008/2009,Regular Season,2008-10-30,00:00,Washington Wizards,Brooklyn Nets,85,95,Away,180,10,Regular Time,No,-238,,200,1
+NBA,2008/2009,Regular Season,2008-10-30,00:30,New York Knicks,Miami Heat,120,115,Home,235,5,Regular Time,No,-145,,120,1
+NBA,2008/2009,Regular Season,2008-10-30,01:00,Detroit Pistons,Indiana Pacers,100,94,Home,194,6,Regular Time,No,-769,,450,1
+NBA,2008/2009,Regular Season,2008-10-30,01:00,Minnesota Timberwolves,Sacramento Kings,98,96,Home,194,2,Regular Time,No,-238,,200,1
+NBA,2008/2009,Regular Season,2008-10-30,01:00,Oklahoma City Thunder,Milwaukee Bucks,87,98,Away,185,11,Regular Time,No,,,,1
+NBA,2026/2027,Regular Season,2026-11-03,01:30,Philadelphia 76ers,Chicago Bulls,126,107,Home,233,19,Regular Time,,-500,,430,
+NBA,2026/2027,Regular Season,2026-11-03,02:00,Dallas Mavericks,Sacramento Kings,100,115,Away,215,15,Regular Time,,-294,,265,
+NBA,2026/2027,Regular Season,2026-11-03,02:00,Memphis Grizzlies,New Orleans Pelicans,134,135,Away,269,1,Overtime,,-217,,195,
+NBA,2026/2027,Regular Season,2026-11-03,02:00,Minnesota Timberwolves,Milwaukee Bucks,112,100,Home,212,12,Regular Time,,-476,,359,
+NBA,2026/2027,Regular Season,2026-11-03,02:30,Houston Rockets,Boston Celtics,109,93,Home,202,16,Regular Time,,-185,,156,
+NBA,2026/2027,Regular Season,2026-11-03,02:30,San Antonio Spurs,Utah Jazz,119,97,Home,216,22,Regular Time,,-1111,,660,
+NBA,2026/2027,Regular Season,2026-11-03,03:00,Denver Nuggets,Portland Trail Blazers,110,118,Away,228,8,Regular Time,,-172,,154,
+NBA,2026/2027,Regular Season,2026-11-03,04:00,Golden State Warriors,Phoenix Suns,116,113,Home,229,3,Regular Time,,-133,,112,
+NBA,2026/2027,Regular Season,2026-11-03,04:00,Los Angeles Clippers,Toronto Raptors,118,125,Away,243,7,Regular Time,,211,,-222,
+NBA,2026/2027,Regular Season,2026-11-03,04:00,Los Angeles Lakers,Miami Heat,138,117,Home,255,21,Regular Time,,-133,,114,

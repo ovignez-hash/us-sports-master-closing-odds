@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+NFL,2008/2009,Regular Season,2008-09-05,01:00,Washington Commanders,New York Giants,7,16,Away,23,9,Regular Time,No,175,,-213,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Atlanta Falcons,Detroit Lions,34,21,Home,55,13,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Baltimore Ravens,Cincinnati Bengals,17,10,Home,27,7,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Buffalo Bills,Seattle Seahawks,34,10,Home,44,24,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Miami Dolphins,New York Jets,14,20,Away,34,6,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,New England Patriots,Kansas City Chiefs,17,10,Home,27,7,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,New Orleans Saints,Tampa Bay Buccaneers,24,20,Home,44,4,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Philadelphia Eagles,Los Angeles Rams,38,3,Home,41,35,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Pittsburgh Steelers,Houston Texans,38,17,Home,55,21,Regular Time,No,,,,1
+NFL,2008/2009,Regular Season,2008-09-07,19:00,Tennessee Titans,Jacksonville Jaguars,17,10,Home,27,7,Regular Time,No,,,,1
+NFL,2026/2027,Regular Season,2026-11-01,19:00,Detroit Lions,Minnesota Vikings,19,15,Home,34,4,Regular Time,,-175,,144,
+NFL,2026/2027,Regular Season,2026-11-01,19:00,Jacksonville Jaguars,Indianapolis Colts,42,7,Home,49,35,Regular Time,,-526,,375,
+NFL,2026/2027,Regular Season,2026-11-01,19:00,New York Jets,Las Vegas Raiders,33,38,Away,71,5,Regular Time,,-130,,110,
+NFL,2026/2027,Regular Season,2026-11-01,19:00,Pittsburgh Steelers,Cleveland Browns,27,6,Home,33,21,Regular Time,,-204,,167,
+NFL,2026/2027,Regular Season,2026-11-01,19:00,Tampa Bay Buccaneers,Atlanta Falcons,16,0,Home,16,16,Regular Time,,-133,,112,
+NFL,2026/2027,Regular Season,2026-11-01,22:05,Los Angeles Rams,Los Angeles Chargers,24,9,Home,33,15,Regular Time,,-286,,231,
+NFL,2026/2027,Regular Season,2026-11-01,22:25,Denver Broncos,Kansas City Chiefs,28,24,Home,52,4,Regular Time,,-112,,-109,
+NFL,2026/2027,Regular Season,2026-11-01,22:25,Miami Dolphins,New England Patriots,19,24,Away,43,5,Regular Time,,290,,-345,
+NFL,2026/2027,Regular Season,2026-11-02,02:20,Washington Commanders,Philadelphia Eagles,27,10,Home,37,17,Regular Time,,-250,,195,
+NFL,2026/2027,Regular Season,2026-11-03,02:15,Seattle Seahawks,Chicago Bears,17,34,Away,51,17,Regular Time,,-175,,142,

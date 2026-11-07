@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+MLB,2006,Regular Season,2006-05-15,19:10,Minnesota Twins,Chicago White Sox,3,7,Away,10,4,Regular Time,No,-108,,-147,3
+MLB,2006,Regular Season,2006-05-15,23:55,Arizona Diamondbacks,San Diego Padres,6,5,Home,11,1,Regular Time,No,-161,,102,3
+MLB,2006,Regular Season,2006-05-15,23:55,Atlanta Braves,Miami Marlins,11,8,Home,19,3,Regular Time,No,-182,,114,3
+MLB,2006,Regular Season,2006-05-15,23:55,Baltimore Orioles,Boston Red Sox,1,11,Away,12,10,Regular Time,No,106,,-167,3
+MLB,2006,Regular Season,2006-05-15,23:55,Colorado Rockies,Los Angeles Dodgers,4,5,Away,9,1,Regular Time,No,-123,,-127,3
+MLB,2006,Regular Season,2006-05-15,23:55,Houston Astros,San Francisco Giants,1,10,Away,11,9,Regular Time,No,-161,,102,3
+MLB,2006,Regular Season,2006-05-15,23:55,New York Yankees,Texas Rangers,2,4,Away,6,2,Regular Time,No,-182,,114,3
+MLB,2006,Regular Season,2006-05-16,23:55,Arizona Diamondbacks,San Diego Padres,5,2,Home,7,3,Regular Time,No,-105,,-149,3
+MLB,2006,Regular Season,2006-05-16,23:55,Athletics,Seattle Mariners,12,6,Home,18,6,Regular Time,No,-125,,-125,3
+MLB,2006,Regular Season,2006-05-16,23:55,Atlanta Braves,Miami Marlins,4,3,Home,7,1,Regular Time,No,-196,,123,3
+MLB,2026,Play Offs,2026-10-15,19:00,Cleveland Guardians,Tampa Bay Rays,3,2,Home,5,1,Regular Time,,-125,,108,
+MLB,2026,Play Offs,2026-10-17,03:00,Los Angeles Dodgers,Milwaukee Brewers,4,6,Away,10,2,Regular Time,,-152,,129,
+MLB,2026,Play Offs,2026-10-18,23:00,Cleveland Guardians,Tampa Bay Rays,1,3,Away,4,2,Regular Time,,108,,-125,
+MLB,2026,Play Offs,2026-10-18,,Cleveland Guardians,Tampa Bay Rays,3,7,Away,10,4,Regular Time,,-105,,-110,
+MLB,2026,Play Offs,2026-10-20,02:00,Tampa Bay Rays,Cleveland Guardians,7,3,Home,10,4,Regular Time,,-152,,131,
+MLB,2026,Play Offs,2026-10-24,02:00,Milwaukee Brewers,Tampa Bay Rays,3,2,Home,5,1,Regular Time,,-185,,160,
+MLB,2026,Play Offs,2026-10-25,03:05,Milwaukee Brewers,Tampa Bay Rays,5,4,Home,9,1,Regular Time,,,,,
+MLB,2026,Play Offs,2026-10-27,01:00,Tampa Bay Rays,Milwaukee Brewers,1,10,Away,11,9,Regular Time,,-115,,-101,
+MLB,2026,Play Offs,2026-10-28,01:00,Tampa Bay Rays,Milwaukee Brewers,4,3,Home,7,1,Regular Time,,102,,-118,
+MLB,2026,Play Offs,2026-10-29,01:00,Tampa Bay Rays,Milwaukee Brewers,1,4,Away,5,3,Regular Time,,119,,-137,

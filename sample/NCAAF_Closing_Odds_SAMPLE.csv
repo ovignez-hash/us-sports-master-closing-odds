@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+NCAAF,2008/2009,Regular Season,2008-10-17,01:30,North Carolina State,Florida State,17,26,Away,43,9,Regular Time,No,333,,-455,1
+NCAAF,2008/2009,Regular Season,2008-10-17,02:00,TCU,Brigham Young,32,7,Home,39,25,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,02:00,Boise State,Hawaii,27,7,Home,34,20,Regular Time,No,-2000,,1000,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Alabama,Ole Miss,24,20,Home,44,4,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Bowling Green,Miami (Oh),20,27,Away,47,7,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Central Michigan,Western Michigan,38,28,Home,66,10,Regular Time,No,110,,-130,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Clemson,Georgia Tech,17,21,Away,38,4,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Duke,Miami (FL),31,49,Away,80,18,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,East Carolina,Memphis,30,10,Home,40,20,Regular Time,No,,,,1
+NCAAF,2008/2009,Regular Season,2008-10-18,18:00,Georgia,Vanderbilt,24,14,Home,38,10,Regular Time,No,,,,1
+NCAAF,2026/2027,Regular Season,2026-11-01,00:30,North Carolina,Miami (FL),35,38,Away,73,3,Regular Time,,440,,-588,
+NCAAF,2026/2027,Regular Season,2026-11-01,00:30,Pittsburgh,Georgia Tech,34,11,Home,45,23,Regular Time,,-323,,275,
+NCAAF,2026/2027,Regular Season,2026-11-01,00:30,Texas,Mississippi St.,31,3,Home,34,28,Regular Time,,-1667,,850,
+NCAAF,2026/2027,Regular Season,2026-11-01,00:30,USC,Ohio State,30,18,Home,48,12,Regular Time,,200,,-250,
+NCAAF,2026/2027,Regular Season,2026-11-01,00:45,Arkansas,Missouri,10,34,Away,44,24,Regular Time,,305,,-400,
+NCAAF,2026/2027,Regular Season,2026-11-01,01:00,Memphis,Army,49,22,Home,71,27,Regular Time,,-213,,179,
+NCAAF,2026/2027,Regular Season,2026-11-01,01:00,Nebraska,Washington Huskies,10,17,Away,27,7,Regular Time,,-294,,250,
+NCAAF,2026/2027,Regular Season,2026-11-01,03:00,Boise State,Texas State Bobcats,46,45,Home,91,1,Regular Time,,-385,,330,
+NCAAF,2026/2027,Regular Season,2026-11-01,03:30,UNLV Rebels,Northern Illinois,31,24,Home,55,7,Regular Time,,-1667,,975,
+NCAAF,2026/2027,Regular Season,2026-11-01,04:00,Fresno State,Oregon State,38,22,Home,60,16,Regular Time,,185,,-222,

@@ -1,0 +1,21 @@
+﻿Organization,Weight_Class,Gender,Year,Date,Time,Event,Location,Fighter_1,Fighter_2,Status,Outcome,Winner,Method,Method_Detail,Round,Finish_Time,Fighter_1_Knockdowns,Fighter_2_Knockdowns,Fighter_1_Sig_Strikes,Fighter_2_Sig_Strikes,Fighter_1_Takedowns,Fighter_2_Takedowns,Fighter_1_Sub_Attempts,Fighter_2_Sub_Attempts,Comment,Fighter_1_Odds,Fighter_2_Odds,Final_Result_Only
+UFC,Heavyweight,Men,2013,2013-02-03,04:00,UFC 156: Aldo vs Edgar,"Las Vegas, Nevada, USA",Overeem A.,Silva A.,Finished,Win,Silva A.,TKO,Punches,3,0:25,0,1,51,21,1,0,0,0,,-400,300,Yes
+UFC,Welterweight,Men,2013,2013-02-03,04:00,UFC 156: Aldo vs Edgar,"Las Vegas, Nevada, USA",Fitch J.,Maia D.,Finished,Win,Maia D.,DEC,,3,5:00,0,0,6,12,0,7,1,3,,-175,150,Yes
+UFC,Featherweight,Men,2013,2013-02-16,21:15,UFC on FUEL TV: Barao vs McDonald,"London, England, United Kingdom",Swanson C.,Poirier D.,Finished,Win,Swanson C.,DEC,,3,5:00,0,0,58,58,2,2,0,0,,-111,-111,Yes
+UFC,Light Heavyweight,Men,2013,2013-02-24,04:00,UFC 157: Rousey vs Carmouche,"Anaheim, California, USA",Machida L.,Henderson D.,Finished,Win,Machida L.,DEC,,3,5:00,0,0,27,20,1,1,0,0,,-227,187,Yes
+UFC,Heavyweight,Men,2013,2013-02-24,05:00,UFC 157: Rousey vs Carmouche,"Anaheim, California, USA",Schaub B.,Johnson L.,Finished,Win,Schaub B.,DEC,,3,5:00,0,0,18,36,5,1,1,0,,,,Yes
+UFC,Middleweight,Men,2013,2013-03-03,04:45,UFC on FUEL TV: Silva vs. Stann,"Saitama, Japan",Okami Y.,Lombard H.,Finished,Win,Okami Y.,DEC,,3,5:00,0,0,37,45,3,0,0,0,,175,-213,Yes
+UFC,Lightweight,Men,2013,2013-03-17,04:00,UFC 158: St-Pierre vs Diaz,"Montreal, Quebec, Canada",Ricci M.,Fletcher C.,Finished,Win,Ricci M.,DEC,,3,5:00,0,0,47,37,2,0,0,0,,,,Yes
+UFC,Welterweight,Men,2013,2013-03-17,04:45,UFC 158: St-Pierre vs Diaz,"Montreal, Quebec, Canada",Miller D.,Mein J.,Finished,Win,Mein J.,TKO,Punches,1,4:42,0,1,11,29,1,0,1,0,,,,Yes
+UFC,Heavyweight,Men,2013,2013-04-06,20:30,UFC on FUEL TV: Mousasi vs Latifi,"Stockholm, Sweden",Mitrione M.,De Fries P.,Finished,Win,Mitrione M.,KO,Punches,1,0:19,0,0,7,0,0,0,0,0,,-333,250,Yes
+UFC,Bantamweight,Men,2013,2013-04-06,20:45,UFC on FUEL TV: Mousasi vs Latifi,"Stockholm, Sweden",Pickett B.,Easton M.,Finished,Win,Pickett B.,DEC,,3,5:00,0,0,68,71,4,3,0,0,,-172,140,Yes
+UFC,Strawweight,Women,2026,2026-10-31,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Alencar T.,Rodriguez P.,Finished,Win,Rodriguez P.,DEC,,3,5:00,0,0,44,89,3,0,0,0,,245,-333,
+UFC,Bantamweight,Women,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Santos Y.,Santos L.,Finished,Win,Santos L.,DEC,,3,5:00,0,0,17,15,0,5,0,0,,261,-357,
+UFC,Featherweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Marshall F.,Hope D.,Finished,Win,Hope D.,DEC,,3,5:00,0,0,25,44,1,0,0,0,,-213,170,
+UFC,Featherweight,Men,2026,2026-11-01,,,,Marshall F.,Bolanos G.,Cancelled,Cancelled,,,,,,,,,,,,,,,,,
+UFC,Flyweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Osbourne O.,Durden C.,Finished,Win,Durden C.,DEC,,3,5:00,0,0,15,35,0,6,1,1,,-101,-123,
+UFC,Lightweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Moicano R.,Nolan T.,Finished,Win,Nolan T.,KO/TKO,Elbows,3,1:28,0,1,9,69,3,1,1,0,,-125,100,
+UFC,Middleweight,Men,2026,2026-11-01,,,,Petroski A.,Bekoev A.,Cancelled,Cancelled,,,,,,,,,,,,,,,,,
+UFC,Welterweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Brown R.,Smith J.,Finished,Win,Smith J.,DEC,,3,5:00,0,0,16,40,0,3,0,0,,222,-294,
+UFC,Welterweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Lebosnoyani J.,Hasanov F.,Finished,Win,Lebosnoyani J.,KO/TKO,,3,2:11,0,0,104,53,0,2,0,0,,-294,222,
+UFC,Welterweight,Men,2026,2026-11-01,,UFC Fight Night: Moicano vs. Nolan,"Las Vegas, Nevada, USA",Sezinando R.,Berggren T.,Finished,Win,Sezinando R.,KO/TKO,,2,5:00,0,0,29,18,3,0,0,0,,-179,141,

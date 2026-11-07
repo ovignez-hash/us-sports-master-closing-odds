@@ -1,0 +1,21 @@
+﻿League,Season,Stage,Date,Time,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Total_Score,Margin,Match_Ending,Final_Result_Only,Home_Odds,Draw_Odds,Away_Odds,Bookmakers
+MLS,1998,Regular Season,1998-03-21,00:00,DC United,Sporting Kansas City,3,2,Home,5,1,Regular Time,No,-118,210,280,1
+MLS,1998,Regular Season,1998-03-21,00:00,FC Dallas,Colorado Rapids,2,1,Home,3,1,Extra Time,No,120,195,220,1
+MLS,1998,Regular Season,1998-03-21,00:00,Los Angeles Galaxy,Houston Dynamo,4,3,Home,7,1,Extra Time,No,-143,215,350,1
+MLS,1998,Regular Season,1998-03-21,00:00,Miami,Chicago Fire,0,2,Away,2,2,Regular Time,No,160,190,160,1
+MLS,1998,Regular Season,1998-03-21,00:00,Mutiny,Columbus Crew,1,2,Away,3,1,Regular Time,No,-118,210,280,1
+MLS,1998,Regular Season,1998-03-26,00:00,Mutiny,Miami,0,1,Away,1,1,Extra Time,No,-222,260,500,1
+MLS,1998,Regular Season,1998-03-28,00:00,Houston Dynamo,Colorado Rapids,2,3,Away,5,1,Extra Time,No,150,185,185,1
+MLS,1998,Regular Season,1998-03-28,00:00,Los Angeles Galaxy,New York Red Bulls,3,2,Home,5,1,Regular Time,No,-125,210,309,1
+MLS,1998,Regular Season,1998-03-29,00:00,DC United,New England Revolution,2,1,Home,3,1,Extra Time,No,-167,229,400,1
+MLS,1998,Regular Season,1998-03-29,00:00,FC Dallas,Columbus Crew,2,1,Home,3,1,Regular Time,No,110,200,265,1
+MLS,2026,Regular Season,2026-10-31,20:00,St. Louis City,San Diego FC,0,1,Away,1,1,Regular Time,,-167,370,370,
+MLS,2026,Regular Season,2026-10-31,22:00,Los Angeles Galaxy,Austin FC,4,1,Home,5,3,Regular Time,,-270,480,630,
+MLS,2026,Regular Season,2026-10-31,22:00,San Jose Earthquakes,Real Salt Lake,2,1,Home,3,1,Regular Time,,154,280,150,
+MLS,2026,Regular Season,2026-11-01,02:30,Colorado Rapids,Chicago Fire,2,4,Away,6,2,Regular Time,,138,269,179,
+MLS,2026,Regular Season,2026-11-01,21:30,Vancouver Whitecaps,Seattle Sounders,5,1,Home,6,4,Regular Time,,-108,309,280,
+MLS,2026,Regular Season,2026-11-01,22:30,Atlanta Utd,Toronto FC,3,1,Home,4,2,Regular Time,,102,309,225,
+MLS,2026,Regular Season,2026-11-01,22:30,Nashville SC,New York Red Bulls,3,2,Home,5,1,Regular Time,,-238,440,532,
+MLS,2026,Regular Season,2026-11-02,01:00,New England Revolution,Inter Miami,1,2,Away,3,1,Regular Time,,181,319,118,
+MLS,2026,Regular Season,2026-11-02,02:30,Los Angeles FC,Minnesota United,1,3,Away,4,2,Regular Time,,-132,330,309,
+MLS,2026,Regular Season,2026-11-02,03:45,Portland Timbers,Houston Dynamo,3,1,Home,4,2,Regular Time,,-133,296,330,
